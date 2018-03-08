@@ -1,0 +1,33 @@
+1	中国	China	CN	86
+2	中国香港	Hongkong	HK	852
+3	中国澳门	Macao	MO	853
+4	中国台湾	Taiwan	TW	886
+5	美国	United States of America	US	1
+6	日本	Japan	JP	81
+7	马来西亚	Malaysia	MY	60
+8	新加坡	Singapore	SG	65
+9	加拿大	Canada	CA	1
+10	澳大利亚	Australia	AU	61
+11	韩国	Korea	KR	82
+12	英国	United Kiongdom	GB	44
+13	意大利	Italy	IT	39
+14	法国	France	FR	33
+15	德国	Germany	DE	49
+16	泰国	Thailand	TH	66
+17	越南	Vietnam	VN	84
+18	新西兰	New Zealand	NZ	64
+19	西班牙	Spain	ES	34
+20	俄罗斯	Russia	RU	7
+21	柬埔寨	Kampuchea (Cambodia )	KH	855
+22	菲律宾	Philippines	PH	63
+23	阿拉伯联合酋长国	The United Arab Emirates	AE	971
+24	罗马尼亚	Romania	RO	40
+25	巴西	Brazil	BR	55
+26	荷兰	Netherlands	NL	31
+27	印度尼西亚	Indonesia	ID	62
+28	匈牙利	Hungary	HU	36
+29	爱尔兰	Ireland	IE	353
+30	阿根廷	Argentina	AR	54
+31	老挝	Laos	LA	856
+32	巴拿马	Panama	PA	507
+33	波兰	Poland	PL	48
