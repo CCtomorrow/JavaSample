@@ -27,3 +27,6 @@ String secret = "70e8f08ce07490d05d1252a17b1aa335";
 String date = Hmac.getDateGMTString();
 String auth = Hmac.getAuthHeaderStr(user, method, url, httpVersion, secret, date);
 ```
+
+#### 源码
+[Hmac](https://github.com/CCtomorrow/JavaSample/blob/master/normalsample/src/main/java/com/qy/hmac/Hmac.java)
