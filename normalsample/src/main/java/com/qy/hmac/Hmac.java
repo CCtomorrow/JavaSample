@@ -70,7 +70,7 @@ public class Hmac {
      * @return [B@7006c658
      * @throws Exception
      */
-    private static byte[] hmacSHA1Encrypt(String encryptText, String encryptKey) throws Exception {
+    public static byte[] hmacSHA1Encrypt(String encryptText, String encryptKey) throws Exception {
         final String macStr = "HmacSHA1";
         final String encoding = "UTF-8";
         byte[] data = encryptKey.getBytes(encoding);

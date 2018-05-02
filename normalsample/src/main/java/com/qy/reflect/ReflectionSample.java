@@ -6,6 +6,8 @@ import javassist.CtMethod;
 import javassist.NotFoundException;
 
 import java.lang.reflect.Method;
+import java.util.ArrayList;
+import java.util.List;
 
 /**
  * <b>Project:</b> Sample <br>
@@ -15,6 +17,8 @@ import java.lang.reflect.Method;
  * <b>Description:</b>  <br>
  */
 public class ReflectionSample {
+
+    private static List<String> list = new ArrayList<String>();
 
     public static void main(String[] args) {
         // 就是如果这个方法在当前类里面有，都可以拿到
