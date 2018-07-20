@@ -29,6 +29,10 @@ public class ReflectionSample {
 
         ClassPool pool = ClassPool.getDefault();
 
+        ReflectionSample.class.getClassLoader().getSystemClassLoader();
+
+        // Thread.currentThread().setContextClassLoader();
+
         System.out.println(methods.length + "===" + methods2.length);
 
         try {

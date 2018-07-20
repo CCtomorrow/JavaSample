@@ -17,6 +17,10 @@ public class TimezoneSample {
 
     public static void main(String[] args) {
         timezone();
+
+        TimeZone tz = TimeZone.getDefault();
+        System.out.println(tz.getRawOffset()/1000/60/60 + "");
+        System.out.println(tz.getID());
     }
 
     private static final String FORMAT = "yyyy-MM-dd HH:mm:ss";

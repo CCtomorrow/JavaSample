@@ -30,3 +30,4 @@ hs_err_pid*
 
 # test
 /normalsample/src/main/java/com/qy/hmac/HamcTest.java
+/normalsample/src/main/java/com/qy/gson/
